@@ -1,0 +1,1 @@
+print(format(int('f', 16),'o'))
